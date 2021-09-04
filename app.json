@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ExpoTemplateTypescriptReduxToolkit",
-    "slug": "ExpoTemplateTypescriptReduxToolkit",
+    "name": "expo-template-redux_toolkit-typescript",
+    "slug": "expo-template-redux_toolkit-typescript",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
